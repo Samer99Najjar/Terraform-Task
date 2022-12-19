@@ -28,7 +28,7 @@ In this project we are asked to create :
 > terraform plan
 
 ## You should get output that look like this
-![alt text](https://github.com/Samer99Najjar/AWS-Terraform/blob/main/planwork.PNG)
+![alt text](https://github.com/Samer99Najjar/Terraform-Task/blob/main/planwork.PNG)
 
 
 ## Apply The project
